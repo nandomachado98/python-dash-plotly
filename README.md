@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/56210058/184257989-ae334017-5aa1-48e7-b661-a03a2a67ba61.png)
 
-- Check the *port number* on the last line of code, open a new tab in your browser, and paste "http://localhost:" + *port number*. You'll should get this:
+- Check the *port number* on the last line of code (in this case: 8050), open a new tab in your browser, and paste "http://localhost:" + *port number*. You'll should get this:
 
 ![image](https://user-images.githubusercontent.com/56210058/184258283-6303bbf8-fc88-422b-a10c-a3dea227e2e7.png)
 
