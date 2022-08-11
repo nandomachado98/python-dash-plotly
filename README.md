@@ -2,7 +2,7 @@
 
 ### USA Domestic Airline Flights Performance
 
-![image](https://user-images.githubusercontent.com/56210058/184258331-20be615b-24bf-43c2-8744-1f7c9dcfe573.png)
+![image](https://user-images.githubusercontent.com/56210058/184258422-c3b83bd2-8a82-4f8c-98e9-eaf9fbb012ee.png)
 
 ### How to run:
 
